@@ -3,5 +3,7 @@ Project "Clinic". It is my third website project. Project was created in HTML5, 
 The project presents the start page of a "fictional" medical clinic. 
 "Responsive Web Design" project - using a Grid and Flexbox.
 The project was inspired by a workshop that I did as part of the CSS course from the "strefa.kursów.pl" platform. 
-External sources: Freepik.com (graphics and icons).
+
+### External sources
+https://www.freepik.com/ (graphics and icons)
 
